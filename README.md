@@ -35,6 +35,9 @@ Contributions are welcome for improving educational content, safety features, an
 
 ---
 
+# ALSO + rep claude litterally coded the entire main.cpp (i dont understand pcie bus addresses the only reason i made this github is because i like kernel exploitation and i wanted to create a exploit on a cool driver i found fbiosdrvExploit.hpp is coded 1000% by me)
+
+
 ## PSS PLEASE GIVE ME FREE FIRMWARE IM POOOOORRRRRRR
 
 ## License
