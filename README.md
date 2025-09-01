@@ -35,6 +35,8 @@ Contributions are welcome for improving educational content, safety features, an
 
 ---
 
+## PSS PLEASE GIVE ME FREE FIRMWARE IM POOOOORRRRRRR
+
 ## License
 
 This project is licensed under the MIT License.  
